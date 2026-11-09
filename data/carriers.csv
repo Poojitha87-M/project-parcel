@@ -1,0 +1,7 @@
+carrier,service_level,base_transit_days
+FastTrack,Standard,3
+FastTrack,Express,2
+QuickShip,Standard,4
+QuickShip,Express,2
+SpeedGo,Standard,3
+SpeedGo,Express,1
